@@ -1,0 +1,94 @@
+CCCCCCCC(=O)CCc1cc(c(cc1)O)OC	6-Paradol
+CCCCCC(CC(=O)CCc1cc(c(cc1)O)OC)O	6-Gingerol
+CCCCCC=CC(=O)CCc1cc(c(cc1)O)OC	6-Shogaol
+CC(=CCCC(=C)C=C)C	Myrcene
+CC(=CCCC(C)(C=C)O)C	Linalool
+CCCCCC(=O)CC(=O)CCc1cc(c(cc1)O)OC	[6]-Gingerdione
+CC1=CC=C(CC1)C(C)CC(=O)C=C(C)C	Tumerone
+Cc1ccc(cc1)C(C)CCC=C(C)C	Curcumene
+CC1=CCC(=C(C)C)C(=O)CC(=CCC1)C	Germacrone
+CC1(C2CCC(O1)(CC2)C)C	1,8-Cineole
+CC(=CCCC(C)(C=C)OC(=O)C)C	Linalyl acetate
+CC1(C2CCC(C2)C1=C)C	Camphene
+CC(=CCCC(=CCO)C)C	Geraniol
+COC(=O)C=Cc1ccccc1	Methyl cinnamate
+CC1=CCC(=C(C)C)CC1	Terpinolene
+CC(C)C12CCC(=C)C1C2	Sabinene
+CC1=CCCC(=CCC2(CCC(O2)(C(CC1)OC(=O)C)C)C(C)C)C	Incensole acetate
+CCCCCCCCOC(=O)C	Octyl acetate
+Cc1c2-c(c(c(c2)O)C)cc(cc1)C(C)C	7-Isopropyl-1,4-dimethyl-2-azulenol
+CCC1(Cc2c(CC1C(=C)C)c(co2)C)C	Curzerene
+CC1=CCCC(=CCC(=C(C)C)CC1)C	Germacrene B
+CC1CCC=C2C1(CC(CC2)C(=C)C)C	Eremophilene
+CC(C)CCCC(C)CCCC(C)CCCC(=CCOC(=O)C)C	Phytyl acetate
+CCCCC1c2ccccc2C(=O)O1	3-Butylphthalide
+CC1CCCC2(C31CC(CC2)C(O3)(C)C)C	Dihydroagarofuran
+CC1CCC2C1CC1CCC2(OC1(C)C)C	Kessane
+CC=Cc1ccc(cc1)OC	Trans-anethole
+COc1ccc(cc1)CC=C	Estragole
+CC1(C2CCC(C2)(C1=O)C)C	Fenchone
+CC1=CCC(CC1)C(=C)C	Limonene
+COc1cc(cc2c1OCO2)CC=C	Myristicin
+C=CCc1cc2c(cc1)OCO2	Safrole
+CC=Cc1ccc(cc1)OC	Anethole
+c1c(cc(c(c1O)O)O)c1c(c(=O)c2c(cc(cc2o1)O)O)O	Myricetin
+COc1c(ccc(c1)c1c(c(=O)c2c(cc(cc2o1)O)O)O)O	Isorhamnetin
+c1cc(ccc1c1cc(=O)c2c(cc(cc2o1)O)O)O	Apigenin
+COc1ccc(cc1)c1cc(=O)c2c(cc(cc2o1)O)O	Acacetin
+c1ccc(cc1)c1cc(=O)c2c(o1)cc(c(c2O)O)O	Baicalein
+c1cc(c(cc1c1cc(=O)c2c(cc(cc2o1)O)O)O)O	Luteolin
+COc1c(cc(cc1)c1cc(=O)c2c(cc(cc2o1)O)O)O	Diosmetin
+c1cc(c(cc1c1c(c(=O)c2c(o1)c(c(cc2O)O)O)O)O)O	Gossypetin
+c1cc(ccc1c1c(c(=O)c2c(cc(cc2o1)O)O)O)O	Kaempferol
+CC1C(C(C(C(O1)OCC1C(C(C(C(O1)Oc1c(oc2cc(cc(c2c1=O)O)O)c1cc(c(cc1)O)O)O)O)O)O)O)O	Rutin
+c1cc(c(cc1c1c(c(=O)c2c(cc(cc2o1)O)O)OC1C(C(C(O1)C(CO)O)O)O)O)O	Isoquercitrin
+COc1c(ccc(c1)CC(CO)C(Cc1cc(c(cc1)O)OC)CO)O	Secoisolariciresinol
+C1C(C(Oc2cc(cc(c12)O)O)c1cc(c(cc1)O)O)O	Catechin
+C1C(C(Oc2cc(cc(c12)O)O)c1cc(c(cc1)O)O)O	Epicatechin
+C1C(C(Oc2cc(cc(c12)O)O)c1cc(c(cc1)O)O)OC1(C(C(c2c(cc(cc2O1)O)O)O)O)c1cc(c(cc1)O)O	Procyanidins
+CC1=C(C(CC(C1)OC1C(C(C(C(O1)CO)O)O)O)(C)C)C=O	Picrocrocin
+CC1=C(C(CC=C1)(C)C)C=O	Safranal
+c1c(cc(c(c1O)O)O)C(=O)O	Gallic acid
+c1cc(c(cc1C=CC(=O)O)O)O	Caffeic acid
+c1cc(ccc1C=CC(=O)O)O	p-Coumaric acid
+COc1c(ccc(c1)C=CC(=O)O)O	Ferulic acid
+C1C(C(C(CC1(C(=O)O)O)OC(=O)C=Cc1cc(c(cc1)O)O)O)O	Chlorogenic acid
+c1cc(c(cc1C(=O)O)O)O	Protocatechuic acid
+c1ccc2c(c1)ccc(=O)o2	Coumarin
+C=CCSS(=O)CC=C	Allicin
+Cc1nccc2c1[nH]c1c2ccc(c1)OC	Harmine
+Cc1nccc2c1[nH]c1ccccc21	Harmane
+CC1=NCCc2c1[nH]c1c2ccc(c1)OC	Harmaline
+C1CN2Cc3ccccc3N=C2C1O	Vasicine (Peganine)
+COc1c(ccc(c1)C=CC(=O)NCCc1ccc(cc1)O)O	N-trans-feruloyltyramine
+c1cc(ccc1CCNC(=O)C=Cc1ccc(cc1)O)O	N-p-coumaroyltyramine
+CC1CCC2(C(C3C(O2)CC2C3(CCC3C2CC=C2C3(CCC(C2)O)C)C)C)OC1	Diosgenin
+CC1(C=Cc2c(O1)ccc1c2OCC(C1)c1c(cc(cc1)O)O)C	Glabridin
+C1C(Oc2c(C1=O)ccc(c2)O)c1ccc(cc1)O	Liquiritigenin
+c1cc(ccc1C=CC(=O)c1c(cc(cc1)O)O)O	Isoliquiritigenin
+C1C(Oc2c(C1=O)ccc(c2)O)c1ccc(cc1)OC1C(C(C(C(O1)CO)O)O)O	Liquiritin
+CCC(CCC(C)C1CCC2C1(CCC1C2CC=C2C1(CCC(C2)O)C)C)C(C)C	Beta-sitosterol
+CCC(C=CC(C)C1CCC2C1(CCC1C2CC=C2C1(CCC(C2)O)C)C)C(C)C	Stigmasterol
+CC(C)C(C)CCC(C)C1CCC2C1(CCC1C2CC=C2C1(CCC(C2)O)C)C	Campesterol
+c1cc(ccc1c1cc(=O)c2c(o1)c(c(cc2O)O)C1C(C(C(C(O1)CO)O)O)O)O	Vitexin
+c1cc(ccc1c1cc(=O)c2c(o1)cc(c(c2O)C1C(C(C(C(O1)CO)O)O)O)O)O	Isovitexin
+COc1c(ccc(c1)CC(COC1C(C(C(C(O1)CO)O)O)O)C(Cc1cc(c(cc1)O)OC)COC1C(C(C(C(O1)CO)O)O)O)O	Secoisolariciresinol diglucoside
+CC(=O)CCC(=O)O	Levulinic acid
+CCCCCCCCCCCCCCCC(=O)O	Palmitic acid
+CCCCCCCCC=CCCCCCCCC(=O)O	Oleic acid
+CCCCCC=CCC=CCCCCCCCC(=O)O	Linoleic acid
+CCCCCCCCCC(=O)O	Capric acid
+CCCCCCCC=CC(=O)O	2-Decenoic acid
+CCC=CCCCCCCCCCC(=O)O	E-11-Tetradecenoic acid
+CCCCC1C2=C(C=CCC2)C(=O)O1	Senkyunolide A
+COc1cc(cc(c1OC)OC)CC=C	Elemicin
+COc1c2c(c(c(c1)CC=C)OC)OCO2	Apiol
+COc1c(c2c(cc1CC=C)OCO2)OC	Dillapiole
+CC1(C2C1C1C(CCC1(C)O)C(=C)CC2)C	Spathulenol
+CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC1C(=CC(CC1(C)C)O)C)C)C	Lutein
+CN1C2CCC1CC(C2)OC(=O)C(CO)c1ccccc1	Atropine
+CN1C2CCC1CC(C2)OC(=O)C(CO)c1ccccc1	Hyoscyamine
+CN1C2CC(CC1C1C2O1)OC(=O)C(CO)c1ccccc1	Scopolamine
+CC(C)CC(=O)O	Isovaleric acid
+CCCCCCCCCCCCCCCCCC=C	1-Nonadecene
+CCCCCCCCCCCCCCCCCCC	Nonadecane
